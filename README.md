@@ -29,15 +29,15 @@ ong-alimento-sim-fome-nao/
 ├── styles.css      # Estilos (mobile-first)
 ├── script.js       # Menu mobile + copiar PIX
 ├── README.md       # Este arquivo
-└── assets/         # Logo, capa e fotos
+└── assets/         # Logo, fotos dos projetos e galeria
     ├── logo.jpg
-    ├── cover.jpg
-    └── photo-01.jpg … photo-08.jpg
+    ├── proj-01.jpg … proj-16.jpg
+    └── photo-01.jpg … photo-17.jpg
 ```
 
 ## Conteúdo
 
-Textos e dados (PIX, WhatsApp, e-mail, endereço, redes e Vakinha) vêm do material-base da ONG. Não é necessário build nem framework.
+Textos e dados (PIX, WhatsApp, e-mail, endereço, redes e Vakinha) vêm do material-base da ONG e do relatório de atividades. Não é necessário build nem framework.
 
 ## Observação
 
